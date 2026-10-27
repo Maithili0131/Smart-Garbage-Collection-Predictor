@@ -5,6 +5,11 @@ Smart Garbage Collection Predictor is a Python-based decision-support system tha
 
 The project uses a weighted risk-scoring approach and a Random Forest classification model to categorize wards into High, Medium, and Low collection priorities.
 
+## Dashboard Preview
+
+![Smart Garbage Collection Predictor Dashboard](dashboard.png)
+
+
 ## Features
 - Ward-wise waste data analysis
 - Integration of waste, bin, and vehicle datasets
